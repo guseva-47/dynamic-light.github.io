@@ -1,0 +1,140 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":323,"y":1,"w":237,"h":190},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":12,"w":237,"h":190},
+	"sourceSize": {"w":280,"h":210}
+},
+"2.png":
+{
+	"frame": {"x":515,"y":137,"w":118,"h":158},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":29,"w":118,"h":158},
+	"sourceSize": {"w":140,"h":210}
+},
+"3.png":
+{
+	"frame": {"x":204,"y":324,"w":119,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":15,"w":119,"h":107},
+	"sourceSize": {"w":140,"h":140}
+},
+"4.png":
+{
+	"frame": {"x":534,"y":381,"w":107,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":22,"w":107,"h":100},
+	"sourceSize": {"w":140,"h":140}
+},
+"5.png":
+{
+	"frame": {"x":218,"y":433,"w":86,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":38,"w":86,"h":68},
+	"sourceSize": {"w":140,"h":140}
+},
+"6.png":
+{
+	"frame": {"x":1,"y":324,"w":201,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":20,"w":201,"h":109},
+	"sourceSize": {"w":210,"h":140}
+},
+"7.png":
+{
+	"frame": {"x":515,"y":1,"w":159,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":3,"w":159,"h":134},
+	"sourceSize": {"w":210,"h":140}
+},
+"8.png":
+{
+	"frame": {"x":325,"y":240,"w":155,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":14,"w":155,"h":110},
+	"sourceSize": {"w":210,"h":140}
+},
+"9.png":
+{
+	"frame": {"x":482,"y":257,"w":128,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":9,"w":128,"h":122},
+	"sourceSize": {"w":140,"h":140}
+},
+"10.png":
+{
+	"frame": {"x":325,"y":352,"w":118,"h":105},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":19,"w":118,"h":105},
+	"sourceSize": {"w":140,"h":140}
+},
+"11.png":
+{
+	"frame": {"x":432,"y":381,"w":113,"h":100},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":24,"w":113,"h":100},
+	"sourceSize": {"w":140,"h":140}
+},
+"add-lantern-flame.png":
+{
+	"frame": {"x":1,"y":435,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+},
+"floor.png":
+{
+	"frame": {"x":1,"y":1,"w":321,"h":320},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":321,"h":320},
+	"sourceSize": {"w":321,"h":320}
+},
+"lamp.png":
+{
+	"frame": {"x":189,"y":435,"w":28,"h":27},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":27},
+	"sourceSize": {"w":28,"h":27}
+},
+"stone-wall.png":
+{
+	"frame": {"x":70,"y":435,"w":65,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":65,"h":64},
+	"sourceSize": {"w":67,"h":67}
+},
+"trash-can.png":
+{
+	"frame": {"x":136,"y":435,"w":51,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":51,"h":67},
+	"sourceSize": {"w":67,"h":67}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":675,"h":503},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:85d6b48e931d6a4519782ca8adb5e021:f65b32824f4a52dc98f49e9de7a9d510:cbce6b53f0f49e0bf15173c25c41f876$"
+}
+}
